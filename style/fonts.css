@@ -1,0 +1,30 @@
+@font-face {
+    src: url(..//fonts/Montserrat-Black.ttf);
+    font-family: "MN";
+    font-weight: 900;
+}
+
+@font-face {
+    src: url(..//fonts/Montserrat-Bold.ttf);
+    font-family: "MN";
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(..//fonts/Montserrat-Light.ttf);
+    font-family: "MN";
+    font-weight: 300;
+}
+
+@font-face {
+    src: url(..//fonts/Montserrat-Regular.ttf);
+    font-family: "MN";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(..//fonts/Montserrat-Thin.ttf);
+    font-family: "MN";
+    font-weight: 100;
+}
+
